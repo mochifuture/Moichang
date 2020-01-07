@@ -1,0 +1,13 @@
+body{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 700px;
+}
+
+.main-img {
+  width: 200px;
+}
